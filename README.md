@@ -17,7 +17,7 @@ Welcome to Streamlit Summarizer, where you can see if provided text or document 
   - We have uses the [https://www.kaggle.com/datasets/thedevastator/hate-speech-and-offensive-language-detection](https://www.kaggle.com/datasets/thedevastator/hate-speech-and-offensive-language-detection) data to train our model.
     
 ## Model
-  - We have uses tensorflow to train our model.
+  - We have uses tensorflow to train our model. It is giving 75% accuracy.
 
 ## Getting Started
 
