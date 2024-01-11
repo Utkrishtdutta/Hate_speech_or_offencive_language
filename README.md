@@ -1,6 +1,6 @@
 # Hate speech and Offensive language Detection
 
-Welcome to Streamlit Summarizer, where you can see if provided text or document is consider as hate speech or offensive or not.
+Welcome to Streamlit detection app, where you can see if provided text or document is consider as hate speech or offensive or not.
 
 ## Contributors
 
